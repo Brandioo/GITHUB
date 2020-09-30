@@ -1,2 +1,4 @@
-Changes in the file.
+Changes in the file. 
 Alex has a cat.
+Adding new, experimental functionality
+
