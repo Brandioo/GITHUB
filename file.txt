@@ -1,1 +1,1 @@
-This is a changed content of file.txt
+This is a changed content of file.txt. Trust me
